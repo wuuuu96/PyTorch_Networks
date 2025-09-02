@@ -3,6 +3,7 @@
 ### model运行结果: input:3x32x32    Total params:83,126
 ### 论文中model训练结果: Sigmoid + Avgpool2d + 没有Dropout epoch=100 FashionMNIST val_acc=87.34%
 ### 改进model训练结果_1: ReLU + MaxPool + Dropout + AdamW + OneCycleLR + label smoothing epoch=100 FashionMNIST val_acc=89.68%
+### 再改进model训练结果_2 :ReLU + MaxPool + Dropout + BN + AdamW + OneCycleLR + label smoothing epoch=100 FashionMNIST val_acc=94%
 ### 1.视频讲解
 
 - 📺:[LeNet-5网络诞生背景](https://www.bilibili.com/video/BV1e34y1M7wR?spm_id_from=333.788.videopod.episodes&vd_source=ee0d4853ce8dacb7fdfc07d40e328f36&p=32)
