@@ -1,7 +1,6 @@
 # PyTorch_Networks
 常见神经网络，包括经典神经网络，轻量化神经网络，目标检测网络，语义分割网络
 
-# PyTorch-Networks
 * **Classical network**
 
   * AlexNet
